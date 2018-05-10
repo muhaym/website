@@ -1,6 +1,6 @@
 # View Location (IViewFor)
 
-View Location is a feature of ReactiveUI that allows you to associate Views with ViewModels and set them up Automagically.
+View Location is a feature of ReactiveUI that allows you to associate Views with ViewModels and set them up Automatically.
 
 ### ViewModelViewHost
 
